@@ -2,8 +2,6 @@
 
 ### Genuinely curious about Cloud, DevOps and AI world
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=CristianZermano&label=Profile views&color=0e75b6&style=flat" alt="CristianZermano" /> </p>
-
 - 🔭 I'm currently working on **gaining skills in Cloud, DevOps and Data Engineering**
 
 - 🌱 I'm currently learning **Cloud, DevOps and Data Engineering**
