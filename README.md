@@ -6,7 +6,7 @@
 
 - 🌱 I'm currently learning **Cloud, DevOps and Data Engineering**
 
-- 🤝 I'm looking for help with **Cloud Engineering**
+- 🤝 I'm looking for help with **AI Engineering and Cloud Architecture**
 
 - 📄 Know about my experiences **[https://canva.link/tw3ayh3ire9kymv](https://canva.link/tw3ayh3ire9kymv)**
 
