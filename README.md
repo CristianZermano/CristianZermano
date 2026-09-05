@@ -1,10 +1,10 @@
 # Hi 👋, I'm Cristian Zermano
 
-### Always curious, always learning — exploring the world of Cloud, DevOps, and AI
+### Always curious, always learning — exploring the world of Cloud, DevOps, Data and AI
 
-- 🔭 I'm currently working on **gaining skills in Cloud, DevOps and AI Engineering**
+- 🔭 I'm currently working on **gaining practical skills in Cloud, DevOps, Data and AI Engineering**
 
-- 🌱 I'm currently learning **Cloud, DevOps and AI Engineering**
+- 🌱 I'm currently learning **Cloud, DevOps, Data and AI Engineering**
 
 - 🤝 I'm looking for help with **Cloud Security**
 
