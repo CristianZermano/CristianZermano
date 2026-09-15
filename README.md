@@ -1,6 +1,6 @@
 # Hi 👋, I'm Cristian Zermano
 
-### Always curious, always learning — exploring the world of Cloud, DevOps, Data and AI
+### Always curious, always learning — exploring the world of System Engineering, Cloud, DevOps, and AI
 
 - 🔭 I'm currently working on **gaining practical skills in System Engineering, Cloud, DevOps and AI Engineering**
 
