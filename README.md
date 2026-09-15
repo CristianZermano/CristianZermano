@@ -2,9 +2,9 @@
 
 ### Always curious, always learning — exploring the world of Cloud, DevOps, Data and AI
 
-- 🔭 I'm currently working on **gaining practical skills in Cloud, DevOps, Data and AI Engineering**
+- 🔭 I'm currently working on **gaining practical skills in System Engineering, Cloud, DevOps and AI Engineering**
 
-- 🌱 I'm currently learning **Cloud, DevOps, Data and AI Engineering**
+- 🌱 I'm currently learning **System Engineering, Cloud, DevOps and AI Engineering**
 
 - 🤝 I'm looking for help with **Cloud Security**
 
