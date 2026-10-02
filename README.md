@@ -8,7 +8,7 @@
 
 - 🤝 I'm looking for help with **Cloud Security**
 
-- 📄 Know about my experiences **[Resume](https://flowcv.com/resume/0levapwmooam)**
+- 📄 Know about my experiences **[My Resume](https://flowcv.com/resume/0levapwmooam)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
